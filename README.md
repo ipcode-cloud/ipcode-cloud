@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello i'm Irankunda a passionate a full-stack web developer<br>I'm looking to collaborate on front-end/backend projects<br>I'm currently learning python<br>Ask me everything associated with Web dev, Front-end/Back-end dev<br>Fun fact don't sleep late for Nothing
+Hello i'm Irankunda a passionate full-stack web developer<br>I'm looking to collaborate on front-end/backend projects<br>I'm currently learning python<br>Ask me everything associated with Web dev, Front-end/Back-end dev<br>HardWork Pay$!
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ Hello i'm Irankunda a passionate a full-stack web developer<br>I'm looking to co
 ---
 [![](https://visitcount.itsvg.in/api?id=ipcode-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can make my bank smile a bit!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/irankunda) 
 
   
