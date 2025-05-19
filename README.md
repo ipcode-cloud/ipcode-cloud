@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 # 💫 About Me:
 Hello i'm Irankunda a passionate full-stack web developer<br>I'm looking to collaborate on front-end/backend projects<br>I'm currently learning python<br>Ask me everything associated with Web dev, Front-end/Back-end dev<br>HardWork Pay$!
 
