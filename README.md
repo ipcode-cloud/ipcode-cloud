@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello i'm Irankunda a passionate full-stack web developer.<br>I'm looking to collaborate on front-end/backend projects.<br>I'm currently learning python.<br>Ask me everything associated with Web dev, Front-end/Back-end dev.<br>HardWork Pay$!
+Hello i'm Irankunda a passionate full-stack web developer.<br>I'm looking to collaborate on front-end/backend projects.<br>I'm currently learning python.<br>Ask me everything associated with Web dev, Front-end/Back-end dev.<br>HardWork Pay$
 
 
 ## 🌐 Socials:
